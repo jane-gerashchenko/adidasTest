@@ -1,0 +1,312 @@
+{
+    "meta":{
+       "code":200,
+       "errors":[
+          {
+             "Tridion SDL CMS Action":"Missing url in metadata event."
+          }
+       ]
+    },
+    "data":{
+       "responses":[
+          {
+             "requestId":"857849340",
+             "actions":[
+                {
+                   "impressionReporting":[
+                      {
+                         "is_control":false,
+                         "has_targets":false,
+                         "tags":[
+                            
+                         ],
+                         "experience_type":"Standard Test",
+                         "experience_name":"Monetate overlap AA",
+                         "experience_id":1194926,
+                         "experience_label":"Monetate-overlap-AA_1194926",
+                         "variant_label":"Experiment",
+                         "control_allocation":0.5
+                      }
+                   ],
+                   "json":{
+                      
+                   },
+                   "actionType":"monetate:action:OmnichannelJson",
+                   "actionId":3272867,
+                   "isControl":false
+                },
+                {
+                   "impressionReporting":[
+                      {
+                         "is_control":false,
+                         "has_targets":false,
+                         "tags":[
+                            
+                         ],
+                         "experience_type":"100% Experience",
+                         "experience_name":"Custom Event Tracking Test V2",
+                         "experience_id":1135016,
+                         "experience_label":"Custom-Event-Tracking-Test_1135016",
+                         "variant_label":"Experiment",
+                         "control_allocation":0.0
+                      }
+                   ],
+                   "json":{
+                      
+                   },
+                   "actionType":"monetate:action:OmnichannelJson",
+                   "actionId":3083439,
+                   "isControl":false
+                },
+                {
+                   "impressionReporting":[
+                      {
+                         "is_control":true,
+                         "has_targets":false,
+                         "tags":[
+                            "datavalidation",
+                            "gvk",
+                            "globalcro"
+                         ],
+                         "experience_type":"Individual Fit",
+                         "experience_name":"CRO_DATAVALIDATION_IF_1_v2-1-1",
+                         "experience_id":988055,
+                         "experience_label":"CRO_DATAVALIDATION_IF_1_v211_988055",
+                         "variant_label":"Baseline",
+                         "control_allocation":null
+                      }
+                   ],
+                   "actionType":"monetate:action:NoAction",
+                   "actionId":2673098,
+                   "isControl":true
+                },
+                {
+                   "impressionReporting":[
+                      {
+                         "is_control":true,
+                         "has_targets":false,
+                         "tags":[
+                            "datavalidation",
+                            "gvk",
+                            "globalcro"
+                         ],
+                         "experience_type":"Individual Fit",
+                         "experience_name":"CRO_DATAVALIDATION_IF_1_v2-1-1",
+                         "experience_id":988055,
+                         "experience_label":"CRO_DATAVALIDATION_IF_1_v211_988055",
+                         "variant_label":"Baseline",
+                         "control_allocation":null
+                      }
+                   ],
+                   "actionType":"monetate:action:NoAction",
+                   "actionId":3530891,
+                   "isControl":true
+                },
+                {
+                   "impressionReporting":[
+                      {
+                         "is_control":false,
+                         "has_targets":true,
+                         "tags":[
+                            
+                         ],
+                         "experience_type":"100% Experience",
+                         "experience_name":"Segment-Male-UK-Has-Only-Seen-Men-PLP-GLP",
+                         "experience_id":1106320,
+                         "experience_label":"SegmentMaleUKHasOnlySeenMenPLPGLP_1106320",
+                         "variant_label":"Experiment",
+                         "control_allocation":0.0
+                      }
+                   ],
+                   "json":{
+                      
+                   },
+                   "actionType":"monetate:action:OmnichannelJson",
+                   "actionId":3001759,
+                   "isControl":false
+                },
+                {
+                   "impressionReporting":[
+                      {
+                         "is_control":false,
+                         "has_targets":true,
+                         "tags":[
+                            
+                         ],
+                         "experience_type":"100% Experience",
+                         "experience_name":"Segment-Male-UK-Has-Seen-Men-PLP-GLP",
+                         "experience_id":1106335,
+                         "experience_label":"SegmentMaleUKHasSeenMenPLPGLP_1106335",
+                         "variant_label":"Experiment",
+                         "control_allocation":0.0
+                      }
+                   ],
+                   "json":{
+                      
+                   },
+                   "actionType":"monetate:action:OmnichannelJson",
+                   "actionId":3001803,
+                   "isControl":false
+                },
+                {
+                   "impressionReporting":[
+                      {
+                         "is_control":false,
+                         "has_targets":true,
+                         "tags":[
+                            
+                         ],
+                         "experience_type":"100% Experience",
+                         "experience_name":"Segment-Originals-UK-Has-Only-Seen-Originals-Products-Last-Session",
+                         "experience_id":1106376,
+                         "experience_label":"SegmentOriginalsUKHasOnlySeenOriginalsProductsLastSession_1106376",
+                         "variant_label":"Experiment",
+                         "control_allocation":0.0
+                      }
+                   ],
+                   "json":{
+                      
+                   },
+                   "actionType":"monetate:action:OmnichannelJson",
+                   "actionId":3001899,
+                   "isControl":false
+                },
+                {
+                   "impressionReporting":[
+                      {
+                         "is_control":false,
+                         "has_targets":true,
+                         "tags":[
+                            
+                         ],
+                         "experience_type":"100% Experience",
+                         "experience_name":"Segment-Originals-UK-Has-Seen-More-Originals-Products-Than-Other-Categories-Current+Past-Session",
+                         "experience_id":1106406,
+                         "experience_label":"SegmentOriginalsUKHasSeenMoreOriginalsProductsThanOtherCateg_1106406",
+                         "variant_label":"Experiment",
+                         "control_allocation":0.0
+                      }
+                   ],
+                   "json":{
+                      
+                   },
+                   "actionType":"monetate:action:OmnichannelJson",
+                   "actionId":3002010,
+                   "isControl":false
+                },
+                {
+                   "impressionReporting":[
+                      {
+                         "is_control":false,
+                         "has_targets":true,
+                         "tags":[
+                            
+                         ],
+                         "experience_type":"100% Experience",
+                         "experience_name":"Segment-Originals-UK-Has-Seen-Originals-Products-More-Recently-Than-Other-Categories-Last-",
+                         "experience_id":1106414,
+                         "experience_label":"SegmentOriginalsUKHasSeenOriginalsProductsMoreRecentlyThanOt_1106414",
+                         "variant_label":"Experiment",
+                         "control_allocation":0.0
+                      }
+                   ],
+                   "json":{
+                      
+                   },
+                   "actionType":"monetate:action:OmnichannelJson",
+                   "actionId":3002021,
+                   "isControl":false
+                },
+                {
+                   "impressionReporting":[
+                      {
+                         "is_control":false,
+                         "has_targets":false,
+                         "tags":[
+                            
+                         ],
+                         "experience_type":"100% Experience",
+                         "experience_name":"ATP-???? UGC Redesign",
+                         "experience_id":1256817,
+                         "experience_label":"ATP-UGC-Redesign_1256817",
+                         "variant_label":"Experiment",
+                         "control_allocation":0.0
+                      }
+                   ],
+                   "json":{
+                      "test_variant":"1",
+                      "test_name":"ATTRACT-4226"
+                   },
+                   "actionType":"monetate:action:OmnichannelJson",
+                   "actionId":3438161,
+                   "isControl":false
+                },
+                {
+                   "impressionReporting":[
+                      {
+                         "is_control":false,
+                         "has_targets":false,
+                         "tags":[
+                            
+                         ],
+                         "experience_type":"100% Experience",
+                         "experience_name":"ATTRACT-9557 Still Interested-1",
+                         "experience_id":1336161,
+                         "experience_label":"ATTRACT9557-Still-Interested1_1336161",
+                         "variant_label":"Experiment",
+                         "control_allocation":0.0
+                      }
+                   ],
+                   "json":{
+                      "test_variant":"1",
+                      "test_name":"ATTRACT-9557"
+                   },
+                   "actionType":"monetate:action:OmnichannelJson",
+                   "actionId":3653374,
+                   "isControl":false
+                },
+                {
+                   "impressionReporting":[
+                      {
+                         "is_control":false,
+                         "has_targets":false,
+                         "tags":[
+                            
+                         ],
+                         "experience_type":"100% Experience",
+                         "experience_name":"Beyonce - Image Swap PLPs",
+                         "experience_id":1345800,
+                         "experience_label":"Beyonce-Image-Swap-PLPs_1345800",
+                         "variant_label":"Experiment",
+                         "control_allocation":0.0
+                      }
+                   ],
+                   "json":{
+                      "test_variant":{
+                         "gr1435":"female",
+                         "gt4080":"female",
+                         "gr1447":"female",
+                         "gr1481":"male",
+                         "gr1477":"female",
+                         "gt9088":"male",
+                         "gv1589":"female",
+                         "gv1588":"male",
+                         "gt9085":"female",
+                         "gv1839":"male",
+                         "gv1583":"female",
+                         "gv1584":"female",
+                         "gt6657":"male",
+                         "gu3988":"female",
+                         "h38828":"male"
+                      },
+                      "test_name":"IVYPARK"
+                   },
+                   "actionType":"monetate:action:OmnichannelJson",
+                   "actionId":3679644,
+                   "isControl":false
+                }
+             ]
+          }
+       ]
+    }
+ }
